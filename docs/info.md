@@ -1,4 +1,4 @@
-# Qdai DESIGN CHIP 01
+# Qdai DESIGN CHIP 04
 
 [![check](https://github.com/OpenSUSI/TR-1um_MPW_template/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/OpenSUSI/TR-1um_MPW_template/actions/workflows/check.yml)
 
@@ -18,20 +18,14 @@
 - [ISHI会ハンズオン in 九州大学大学院システム情報科学府附属価値創造型半導体人材育成センターを開催しました](https://ishi-kai.org/seminar/shuttle/opensusi-tr10/2026/09/05/Seminar_1bit-CPU_Kyudai.html)
 
 
-### 1bit-CPU回路
-- ![全体のレイアウト画面](/1bitCPU/images/onebitCPU_ALL.png)
-- [全体の回路図](/1bitCPU/onebitCPU_ALL.sch)
-- [全体のレイアウト](/1bitCPU/onebitCPU_ALL.gds)
+## ISHI会の報酬枠
+この枠は、本ハンズオンの報酬としていただいた枠となります。  
 
-- ![Haruichi_Kanayaさんのレイアウト画面](/1bitCPU/images/1bitCPU_1ine_min_Haruichi_Kanaya.png)
-- [Haruichi_Kanayaさんの回路図](/1bitCPU/1bitCPU_1ine_min_Haruichi_Kanaya.sch)
-- [Haruichi_Kanayaさんのレイアウト](/1bitCPU/1bitCPU_1ine_min_Haruichi_Kanaya.gds)
+### Tiny555回路
+- [ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1)
+    - [Tiny555回路：yamada3](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/Tiny555/yamada3/)
 
-- ![Satoshi_Kawakamiさんのレイアウト画面](/1bitCPU/images/1bitCPU_1line_Satoshi_Kawakami.png)
-- [Satoshi_Kawakamiさんの回路図](/1bitCPU/1bitCPU_1line_Satoshi_Kawakami.sch)
-- [Satoshi_Kawakamiさんのレイアウト](/1bitCPU/1bitCPU_1line_Satoshi_Kawakami.gds)
-
-- ![Hao_Chenさんのレイアウト画面](/1bitCPU/images/1bitCPU_Hao_Chen.png)
-- [Hao_Chenさんの回路図](/1bitCPU/1bitCPU_Hao_Chen.sch)
-- [Hao_Chenさんのレイアウト](/1bitCPU/1bitCPU_Hao_Chen.gds)
+### 4bit 6T SRAM回路
+- [ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1)
+    - [SRAM回路：noritsuna](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/SRAM/noritsuna/)
 
